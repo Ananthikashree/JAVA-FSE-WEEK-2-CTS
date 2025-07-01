@@ -1,0 +1,5 @@
+com\helper\OrderedTests.class
+com\helper\EmailValidatorTest.class
+com\helper\AllTests.class
+com\helper\ExceptionThrowerTest.class
+com\helper\PerformanceTesterTest.class
