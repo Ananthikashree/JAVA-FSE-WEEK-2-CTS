@@ -1,0 +1,5 @@
+com\task\repository\UserRepository.class
+com\task\service\UserService.class
+com\task\model\User.class
+com\task\controller\UserController.class
+com\task\exception\GlobalExceptionHandler.class

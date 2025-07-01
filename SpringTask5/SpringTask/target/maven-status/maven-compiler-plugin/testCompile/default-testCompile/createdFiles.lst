@@ -1,0 +1,11 @@
+com\task\ParameterizedAddTest.class
+com\task\UserServiceExceptionTest.class
+com\task\UserControllerTest.class
+com\task\PostControllerTest.class
+com\task\UserServiceTest.class
+com\task\CalculatorServiceTest.class
+com\task\CustomQueryTest.class
+com\task\GlobalExceptionHandlerTest.class
+com\task\Calculator.class
+com\task\CalculatorService.class
+com\task\IntegrationTest.class
