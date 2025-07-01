@@ -1,0 +1,14 @@
+2025-06-28 12:44:30 [main] INFO  com.logging.LoginService - User 'john_doe' is attempting to login from 192.168.1.10
+2025-06-28 12:44:30 [main] INFO  com.logging.LoginService - Login successful for user 'john_doe'
+2025-06-28 12:44:30 [main] INFO  com.logging.LoginService - User 'admin' is attempting to login from 10.0.0.1
+2025-06-28 12:44:30 [main] INFO  com.logging.LoginService - Admin access detected for user 'admin'
+2025-06-28 12:44:30 [main] INFO  com.logging.LoginService - Login successful for user 'admin'
+2025-06-28 12:44:36 [main] INFO  com.logging.OrderProcessor - Starting processing for order: ORD001
+2025-06-28 12:44:36 [main] DEBUG com.logging.OrderProcessor - Checking inventory for order: ORD001
+2025-06-28 12:44:36 [main] INFO  com.logging.OrderProcessor - Order ORD001 processed successfully
+2025-06-28 12:44:36 [main] INFO  com.logging.OrderProcessor - Starting processing for order: 
+2025-06-28 12:44:36 [main] ERROR com.logging.OrderProcessor - Order ID is missing!
+2025-06-28 12:44:36 [main] INFO  com.logging.OrderProcessor - Starting processing for order: 123
+2025-06-28 12:44:36 [main] WARN  com.logging.OrderProcessor - Order ID is shorter than expected: 123
+2025-06-28 12:44:36 [main] DEBUG com.logging.OrderProcessor - Checking inventory for order: 123
+2025-06-28 12:44:36 [main] INFO  com.logging.OrderProcessor - Order 123 processed successfully
